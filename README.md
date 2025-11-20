@@ -1,7 +1,7 @@
 # P5.js Visual Portfolio – Assignments Collection
 
 2025년 2학기 숭실대학교 컴퓨터학부 P5.js 기반 과제 모음
-
+<br>
 본 프로젝트는 P5.js를 활용하여 제작한 4가지 시각 예술·인터랙션 과제를 모아 GitHub Pages로 배포한 결과물입니다.
 
 👉 GitHub Pages 링크: https://YOUR_ID.github.io/p5-assignments/
